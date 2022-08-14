@@ -20,8 +20,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/95872566?s=200&v=4
   name: WeCont
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**WeCont Statuspage**, onde você acompanha o status dos sistemas da WeCont."
+  introMessage: Para dúvidas e sugestões entre em contato com felipe.maffezzolli@wecont.net.
   navbar:
     - title: Status
       href: /
