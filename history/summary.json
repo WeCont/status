@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/api.wecont.net",
     "slug": "api-producao",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 250,
-    "timeDay": 366,
-    "timeWeek": 241,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 251,
+    "timeDay": 265,
+    "timeWeek": 244,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2022-08-15": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 180,
-    "timeWeek": 97,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "time": 104,
+    "timeDay": 110,
+    "timeWeek": 88,
+    "timeMonth": 104,
+    "timeYear": 104,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1290,
-    "timeDay": 1592,
-    "timeWeek": 1154,
-    "timeMonth": 1290,
-    "timeYear": 1290,
+    "time": 1208,
+    "timeDay": 468,
+    "timeWeek": 1204,
+    "timeMonth": 1208,
+    "timeYear": 1208,
     "dailyMinutesDown": {}
   }
 ]
