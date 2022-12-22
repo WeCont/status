@@ -1,7 +1,7 @@
 url: https://api.wecont.net
-status: down
-code: 503
-responseTime: 190
-lastUpdated: 2022-12-22T20:04:40.724Z
+status: up
+code: 200
+responseTime: 141
+lastUpdated: 2022-12-22T20:21:51.708Z
 startTime: Sun Aug 14 2022 00:23:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
