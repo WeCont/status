@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.53%",
+    "uptimeYear": "32.52%",
     "time": 220,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-01-17": 1311,
+      "2024-01-17": 1324,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -284,7 +284,7 @@
     "timeMonth": 155,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-01-17": 1311,
+      "2024-01-17": 1324,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -557,19 +557,19 @@
     "url": "https://portal.wecont.net",
     "icon": "https://icons.duckduckgo.com/ip3/portal.wecont.net.ico",
     "slug": "front-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 655,
-    "timeWeek": 305,
+    "time": 342,
+    "timeDay": 483,
+    "timeWeek": 287,
     "timeMonth": 164,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 13
     }
   }
 ]
