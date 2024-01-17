@@ -1,7 +1,7 @@
 url: https://portal.wecont.net
-status: up
-code: 200
-responseTime: 118
-lastUpdated: 2024-01-16T23:13:24.105Z
+status: down
+code: 500
+responseTime: 1191
+lastUpdated: 2024-01-17T21:50:49.928Z
 startTime: 2022-08-14T00:23:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
