@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-27": 1268,
+      "2025-07-27": 1288,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 159,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-07-27": 1268,
+      "2025-07-27": 1288,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -772,19 +772,19 @@
     "url": "https://portal.wecont.net",
     "icon": "https://icons.duckduckgo.com/ip3/portal.wecont.net.ico",
     "slug": "front-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 131,
-    "timeWeek": 118,
-    "timeMonth": 135,
+    "timeDay": 142,
+    "timeWeek": 121,
+    "timeMonth": 136,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 20
     }
   }
 ]
