@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wecont.net.ico",
     "slug": "api-producao",
     "status": "down",
-    "uptime": "24.61%",
+    "uptime": "24.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-27": 1191,
+      "2025-08-28": 87,
+      "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -379,8 +380,7 @@
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
-      "2024-08-29": 1440,
-      "2024-08-28": 1440
+      "2024-08-29": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/we-cont-core-api-stage.herokuapp.com.ico",
     "slug": "api-stage",
     "status": "down",
-    "uptime": "23.17%",
+    "uptime": "23.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 133,
-    "timeDay": 34,
-    "timeWeek": 59,
+    "timeDay": 156,
+    "timeWeek": 64,
     "timeMonth": 114,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2025-08-27": 1191,
+      "2025-08-28": 87,
+      "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -763,8 +764,7 @@
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
-      "2024-08-29": 1440,
-      "2024-08-28": 1440
+      "2024-08-29": 1440
     }
   },
   {
@@ -774,17 +774,17 @@
     "slug": "front-portal",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
     "time": 150,
-    "timeDay": 130,
-    "timeWeek": 154,
+    "timeDay": 123,
+    "timeWeek": 151,
     "timeMonth": 151,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-08-27": 53,
+      "2025-08-27": 43,
       "2025-08-26": 50,
       "2025-08-25": 35,
       "2025-08-06": 26,
