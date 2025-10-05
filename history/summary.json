@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-04": 1371,
+      "2025-10-05": 100,
+      "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -379,8 +380,7 @@
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
-      "2024-10-06": 1440,
-      "2024-10-05": 1440
+      "2024-10-06": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/we-cont-core-api-stage.herokuapp.com.ico",
     "slug": "api-stage",
     "status": "down",
-    "uptime": "22.40%",
+    "uptime": "22.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 133,
-    "timeDay": 20,
-    "timeWeek": 128,
-    "timeMonth": 125,
+    "timeDay": 234,
+    "timeWeek": 121,
+    "timeMonth": 132,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-10-04": 1371,
+      "2025-10-05": 100,
+      "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -763,8 +764,7 @@
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
-      "2024-10-06": 1440,
-      "2024-10-05": 1440
+      "2024-10-06": 1440
     }
   },
   {
@@ -774,17 +774,16 @@
     "slug": "front-portal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 149,
-    "timeDay": 113,
-    "timeWeek": 124,
-    "timeMonth": 136,
+    "timeDay": 82,
+    "timeWeek": 119,
+    "timeMonth": 134,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-10-04": 10,
       "2025-09-11": 17,
       "2025-09-02": 19,
       "2025-09-01": 43,
